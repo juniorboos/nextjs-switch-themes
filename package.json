@@ -1,5 +1,5 @@
 {
-  "name": "base-config",
+  "name": "company-website",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,8 +10,10 @@
   "dependencies": {
     "next": "9.5.2",
     "next-images": "^1.6.2",
+    "polished": "^4.0.5",
     "react": "16.13.1",
     "react-dom": "16.13.1",
+    "react-switch": "^5.0.1",
     "styled-components": "^5.1.1"
   },
   "devDependencies": {
